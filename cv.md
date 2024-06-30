@@ -1,4 +1,4 @@
-https://CarbaM.github.io/rsschool-cv/cv
+
 # Maria Shelukhina 
 ## Contacts:
 #### E-mail: m-gru@internet.ru
