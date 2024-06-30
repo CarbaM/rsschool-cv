@@ -1,3 +1,4 @@
+https://CarbaM.github.io/rsschool-cv/cv
 # Maria Shelukhina 
 ## Contacts:
 #### E-mail: m-gru@internet.ru
@@ -11,3 +12,5 @@ I am accurate, punctual, purposeful and responsible. I like learning something n
 * Java (basic)
 * Linux OS
 * VS Code, PyCharm, IntelliJ IDEA
+## Languages:
+English A2
